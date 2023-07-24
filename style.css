@@ -1,0 +1,42 @@
+img
+{
+    width:300px;
+    height:350px;
+    float:right;
+    position:relative;
+    top:-50px;
+    right:20px;
+    border-radius:10px;
+}
+div
+{
+    font-family: 'Arial';
+    color: white;
+}
+.Company 
+{   
+    font-size: 20px;
+    font-weight: bold;
+}
+body 
+{
+    backdrop-filter: blur(3px);
+    background-image: url("https://wallpaperaccess.com/full/5623075.png");
+    background-color: #cccccc;
+}
+a 
+{
+  color:white;
+}
+table,th,td {
+    border-style:solid;
+    border-color:white;
+    border-width: medium;
+}
+h1 
+{
+  text-align:center;
+}
+h2{
+    text-decoration:underline;
+}
